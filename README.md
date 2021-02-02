@@ -1,2 +1,1 @@
-# docs-new-relic
-New Relic
+# New Relic
